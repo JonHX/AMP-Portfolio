@@ -1,4 +1,4 @@
-# AMP-Portfolio
+# AMP-Portfolio proof of concept using AMP-BIND ~ CIRCA 2016
 Created in 2016 on the release of AMP-BIND javascript expressions, an original draft of jontarrant.me created in amp, with flexible background and description length selection.
 
 Although no content you can see the use of amp-bind here: https://jonhx.github.io/AMP-Portfolio/
